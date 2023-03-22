@@ -7,7 +7,7 @@
       "test": "test"
     },
     "scripts": {
-      "pretest": "mkdir -p test-results/jest",
+      
       "test": "jest"
     },
     "author": "",
