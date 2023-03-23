@@ -3,7 +3,7 @@ module.exports = {
     reporters: ['default', 'jest-junit'],
     testResultsProcessor: 'jest-junit',
     junitReporter: {
-      outputDirectory: 'test-results',
+      outputDirectory: './test-results',
       outputName: 'junit.xml',
     },
   };
